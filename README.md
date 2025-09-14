@@ -1,1 +1,1 @@
-传奇1客户端，对SlimDX9进行解耦
+传奇1客户端Carbon，对SlimDX9进行解耦
